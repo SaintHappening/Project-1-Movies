@@ -2,7 +2,7 @@ Readme for Project 1:  Movie Page.
 
 Step 1:  Make sure that all of these files go into the same folder.  The program will not run without everything being together.
 
-Step 2:  Navigate to the folder where you have saved everything, and clone the repository.  You can do this by typing the following:  git clone "https://github.com/SaintHappening/Project-1-Movies into Terminal.
+Step 2:  Navigate to the folder where you have saved everything, and clone the repository.  You can do this by typing the following:  git clone "https://github.com/SaintHappening/Project-1-Movies" into Terminal.
 
 Step 3:  Open the file Entertainment Center.py and press Cmd + B, to build the program.  This should open up a browser window on your computer, which will allow you to see and interact with the movie file.
 
